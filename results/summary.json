@@ -1,0 +1,18 @@
+{
+  "start": "2018-01-01T00:00:00",
+  "days": 7,
+  "half_hour_periods": 336,
+  "battery": {
+    "charge_mw": 2.0,
+    "discharge_mw": 2.0,
+    "capacity_mwh": 4.0,
+    "charge_loss": 0.05,
+    "discharge_loss": 0.05
+  },
+  "initial_stored_mwh": 0.0,
+  "final_stored_mwh": 0.0,
+  "trading_profit_gbp": 1239.63906398892,
+  "grid_import_mwh": 91.07756232686984,
+  "grid_export_mwh": 82.19750000000005,
+  "solver_relative_gap_target": 1e-08
+}
